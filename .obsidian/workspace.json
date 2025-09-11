@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "8908c37c476fd447",
+        "id": "f7f0ae175a41a4fd",
         "type": "tabs",
         "children": [
           {
-            "id": "655cb43b53143a6a",
+            "id": "4372f7d77093ec81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tlx-basiccpp-01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tlx-basiccpp-01"
+            }
+          },
+          {
+            "id": "3fb97bb2a6ca947e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +35,8 @@
               "title": "tlx-basiccpp-01"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "basic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c911579ee02fe4d9",
@@ -128,7 +142,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -136,35 +150,27 @@
             }
           },
           {
-            "id": "6fd1cf57c9eea4da",
+            "id": "a5604d72b9ca2374",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "tlx-basiccpp-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "c2f2075d8b264e74",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of tlx-basiccpp-01"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "655cb43b53143a6a",
+  "active": "3fb97bb2a6ca947e",
   "lastOpenFiles": [
+    "tlx-basiccpp-10.md",
     "tlx-basiccpp-01.md",
     "README.md",
     "pbi/tlx-basiccpp-01.md",

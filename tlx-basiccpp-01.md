@@ -6,6 +6,8 @@
 
 > 📆 9 September 2025
 
+💡 Jika ingin lebih singkat (`std:cout` -> `cout`), gunakan `using namespace std;` di baris kedua.
+
 ```cpp
 #include <iostream>
 
