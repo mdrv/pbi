@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "33b1603283f67457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tlx-basiccpp-02.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "tlx-basiccpp-02"
+            }
+          },
+          {
+            "id": "f434192a9072878c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tlx-bnpchs-2025-penyisihan.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "tlx-bnpchs-2025-penyisihan"
+            }
+          },
+          {
             "id": "3fb97bb2a6ca947e",
             "type": "leaf",
             "state": {
@@ -36,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,12 +208,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fb97bb2a6ca947e",
+  "active": "f434192a9072878c",
   "lastOpenFiles": [
     "tlx-basiccpp-01.md",
+    "tlx-basiccpp-02.md",
+    "tlx-bnpchs-2025-penyisihan.md",
     "tlx-basiccpp-10.md",
     "README.md",
     "pbi/tlx-basiccpp-01.md",
