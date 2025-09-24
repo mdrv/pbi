@@ -1,0 +1,32 @@
+{
+	"name": "pbi-docs",
+	"type": "module",
+	"version": "0.0.1",
+	"scripts": {
+		"d": "astro dev --host",
+		"b": "astro build",
+		"p": "astro preview --host",
+		"a": "astro"
+	},
+	"dependencies": {
+		"@astrojs/starlight": "^0.36.0",
+		"astro": "^5.13.10",
+		"sharp": "^0.34.4"
+	},
+	"devDependencies": {
+		"@astrojs/starlight-tailwind": "^4.0.1",
+		"@astrojs/svelte": "^7.1.1",
+		"@tailwindcss/vite": "^4.1.13",
+		"daisyui": "^5.1.14",
+		"date-fns": "^4.1.0",
+		"es-toolkit": "^1.39.10",
+		"remark-attributes": "^0.3.2",
+		"remark-ruby-directive": "^0.3.0",
+		"starlight-scroll-to-top": "^0.4.0",
+		"tailwindcss": "^4.1.13"
+	},
+	"overrides": {
+		"@rollup/rollup-linux-arm64-gnu": "4.50.1"
+	},
+	"trustedDependencies": ["@tailwindcss/oxide"]
+}
