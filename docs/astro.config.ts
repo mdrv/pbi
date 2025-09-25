@@ -18,6 +18,10 @@ export default defineConfig({
 			title: 'PBI Informatics',
 			defaultLocale: 'id',
 			sidebar: [
+				{
+					label: 'Panduan',
+					autogenerate: { directory: 'panduan' },
+				},
 			],
 			customCss: ['./src/styles/global.css'],
 		}),

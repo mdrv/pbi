@@ -1,6 +1,6 @@
 # Keluaran dan Ekspresi Sederhana
 
--   Diselesaikan oleh: Umar Alfarouk
+- Diselesaikan oleh: Umar Alfarouk
 
 ## 1A - Program Pertamaku
 

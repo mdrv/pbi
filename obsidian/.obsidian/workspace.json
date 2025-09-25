@@ -1,230 +1,230 @@
 {
-  "main": {
-    "id": "98f114b0a0073ebd",
-    "type": "split",
-    "children": [
-      {
-        "id": "f7f0ae175a41a4fd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4372f7d77093ec81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tlx-basiccpp-01.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "tlx-basiccpp-01"
-            }
-          },
-          {
-            "id": "33b1603283f67457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tlx-basiccpp-02.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "tlx-basiccpp-02"
-            }
-          },
-          {
-            "id": "f434192a9072878c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tlx-bnpchs-2025-penyisihan.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "tlx-bnpchs-2025-penyisihan"
-            }
-          },
-          {
-            "id": "3fb97bb2a6ca947e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tlx-basiccpp-10.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "tlx-basiccpp-10"
-            }
-          }
-        ],
-        "currentTab": 2
-      }
-    ],
-    "direction": "vertical"
-  },
-  "left": {
-    "id": "05a44399eed79a5e",
-    "type": "split",
-    "children": [
-      {
-        "id": "b9b730f0a96cd2f4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cc6603c1f00d83f7",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "73058f4ec16fbccf",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "basic",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "39b1105760157c82",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "c911579ee02fe4d9",
-    "type": "split",
-    "children": [
-      {
-        "id": "3d45235d9087d898",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d5cec266b4397d36",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "8921de8b88377418",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "f1f400aca03b248f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "a5604d72b9ca2374",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "tlx-basiccpp-01.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of tlx-basiccpp-01"
-            }
-          }
-        ],
-        "currentTab": 2
-      }
-    ],
-    "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
-  },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
-    }
-  },
-  "active": "f434192a9072878c",
-  "lastOpenFiles": [
-    "tlx-basiccpp-01.md",
-    "tlx-basiccpp-02.md",
-    "tlx-bnpchs-2025-penyisihan.md",
-    "tlx-basiccpp-10.md",
-    "README.md",
-    "pbi/tlx-basiccpp-01.md",
-    "pbi/README.md",
-    "pbi",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Welcome.md"
-  ]
+	"main": {
+		"id": "98f114b0a0073ebd",
+		"type": "split",
+		"children": [
+			{
+				"id": "f7f0ae175a41a4fd",
+				"type": "tabs",
+				"children": [
+					{
+						"id": "4372f7d77093ec81",
+						"type": "leaf",
+						"state": {
+							"type": "markdown",
+							"state": {
+								"file": "tlx-basiccpp-01.md",
+								"mode": "source",
+								"source": true
+							},
+							"icon": "lucide-file",
+							"title": "tlx-basiccpp-01"
+						}
+					},
+					{
+						"id": "33b1603283f67457",
+						"type": "leaf",
+						"state": {
+							"type": "markdown",
+							"state": {
+								"file": "tlx-basiccpp-02.md",
+								"mode": "source",
+								"source": true
+							},
+							"icon": "lucide-file",
+							"title": "tlx-basiccpp-02"
+						}
+					},
+					{
+						"id": "f434192a9072878c",
+						"type": "leaf",
+						"state": {
+							"type": "markdown",
+							"state": {
+								"file": "tlx-bnpchs-2025-penyisihan.md",
+								"mode": "source",
+								"source": true
+							},
+							"icon": "lucide-file",
+							"title": "tlx-bnpchs-2025-penyisihan"
+						}
+					},
+					{
+						"id": "3fb97bb2a6ca947e",
+						"type": "leaf",
+						"state": {
+							"type": "markdown",
+							"state": {
+								"file": "tlx-basiccpp-10.md",
+								"mode": "source",
+								"source": true
+							},
+							"icon": "lucide-file",
+							"title": "tlx-basiccpp-10"
+						}
+					}
+				],
+				"currentTab": 2
+			}
+		],
+		"direction": "vertical"
+	},
+	"left": {
+		"id": "05a44399eed79a5e",
+		"type": "split",
+		"children": [
+			{
+				"id": "b9b730f0a96cd2f4",
+				"type": "tabs",
+				"children": [
+					{
+						"id": "cc6603c1f00d83f7",
+						"type": "leaf",
+						"state": {
+							"type": "file-explorer",
+							"state": {
+								"sortOrder": "alphabetical",
+								"autoReveal": false
+							},
+							"icon": "lucide-folder-closed",
+							"title": "Files"
+						}
+					},
+					{
+						"id": "73058f4ec16fbccf",
+						"type": "leaf",
+						"state": {
+							"type": "search",
+							"state": {
+								"query": "basic",
+								"matchingCase": false,
+								"explainSearch": false,
+								"collapseAll": false,
+								"extraContext": false,
+								"sortOrder": "alphabetical"
+							},
+							"icon": "lucide-search",
+							"title": "Search"
+						}
+					},
+					{
+						"id": "39b1105760157c82",
+						"type": "leaf",
+						"state": {
+							"type": "bookmarks",
+							"state": {},
+							"icon": "lucide-bookmark",
+							"title": "Bookmarks"
+						}
+					}
+				]
+			}
+		],
+		"direction": "horizontal",
+		"width": 300
+	},
+	"right": {
+		"id": "c911579ee02fe4d9",
+		"type": "split",
+		"children": [
+			{
+				"id": "3d45235d9087d898",
+				"type": "tabs",
+				"children": [
+					{
+						"id": "d5cec266b4397d36",
+						"type": "leaf",
+						"state": {
+							"type": "backlink",
+							"state": {
+								"collapseAll": false,
+								"extraContext": false,
+								"sortOrder": "alphabetical",
+								"showSearch": false,
+								"searchQuery": "",
+								"backlinkCollapsed": false,
+								"unlinkedCollapsed": true
+							},
+							"icon": "links-coming-in",
+							"title": "Backlinks"
+						}
+					},
+					{
+						"id": "8921de8b88377418",
+						"type": "leaf",
+						"state": {
+							"type": "outgoing-link",
+							"state": {
+								"linksCollapsed": false,
+								"unlinkedCollapsed": true
+							},
+							"icon": "links-going-out",
+							"title": "Outgoing links"
+						}
+					},
+					{
+						"id": "f1f400aca03b248f",
+						"type": "leaf",
+						"state": {
+							"type": "tag",
+							"state": {
+								"sortOrder": "frequency",
+								"useHierarchy": true,
+								"showSearch": true,
+								"searchQuery": ""
+							},
+							"icon": "lucide-tags",
+							"title": "Tags"
+						}
+					},
+					{
+						"id": "a5604d72b9ca2374",
+						"type": "leaf",
+						"state": {
+							"type": "outline",
+							"state": {
+								"file": "tlx-basiccpp-01.md",
+								"followCursor": false,
+								"showSearch": false,
+								"searchQuery": ""
+							},
+							"icon": "lucide-list",
+							"title": "Outline of tlx-basiccpp-01"
+						}
+					}
+				],
+				"currentTab": 2
+			}
+		],
+		"direction": "horizontal",
+		"width": 200,
+		"collapsed": true
+	},
+	"left-ribbon": {
+		"hiddenItems": {
+			"switcher:Open quick switcher": false,
+			"graph:Open graph view": false,
+			"canvas:Create new canvas": false,
+			"daily-notes:Open today's daily note": false,
+			"templates:Insert template": false,
+			"command-palette:Open command palette": false,
+			"bases:Create new base": false,
+			"obsidian-git:Open Git source control": false
+		}
+	},
+	"active": "f434192a9072878c",
+	"lastOpenFiles": [
+		"tlx-basiccpp-01.md",
+		"tlx-basiccpp-02.md",
+		"tlx-bnpchs-2025-penyisihan.md",
+		"tlx-basiccpp-10.md",
+		"README.md",
+		"pbi/tlx-basiccpp-01.md",
+		"pbi/README.md",
+		"pbi",
+		"Untitled 2.base",
+		"Untitled 1.base",
+		"Untitled.base",
+		"Welcome.md"
+	]
 }
