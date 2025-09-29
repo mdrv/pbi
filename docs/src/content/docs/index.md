@@ -2,14 +2,22 @@
 title: Homepage
 ---
 
+## Typing race
+
+🐼 Mampukah kamu mengetik dengan lancar dan cepat?
+
+https://typer.io/lobby/ickBMs
+
 ## Organize your repository
 
 Pada malam lalu, kita sudah berhasil kompilasi kode C++ menjadi program yang bisa dijalankan (di Windows berekstensi `.exe`). Namun, file `.exe` sebaiknya tidak disimpan dalam repositori Git (terutama karena ukurannya yang relatif besar). Maka dari itu, kita akan pastikan mereka tidak ter-upload ke GitHub.
 
-Buat file .gitignore di direktori utama (_root_).
+Buat file .gitignore di direktori utama (_root_) dengan isi berikut:
 
-```gitignore
+```sh
 *.exe
+# Ini adalah komentar.
+# Kamu bisa tambahkan pattern lainnya agar tidak di-upload oleh Git
 ```
 
 Untuk memastikan file `.exe` tidak terupload, eksekusi `git status` di terminal (pastikan sudah berada di direktori PBI).

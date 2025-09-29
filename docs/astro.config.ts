@@ -22,6 +22,10 @@ export default defineConfig({
 					label: 'Panduan',
 					autogenerate: { directory: 'panduan' },
 				},
+				{
+					label: 'Tugas',
+					autogenerate: { directory: 'tugas' },
+				},
 			],
 			customCss: ['./src/styles/global.css'],
 		}),
